@@ -1,4 +1,4 @@
 summerschool
 ============
 
-first steps
+first steps coding in python
